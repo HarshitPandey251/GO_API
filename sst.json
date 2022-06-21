@@ -1,0 +1,5 @@
+{
+  "name": "rest-api-go",
+  "region": "ap-south-1",
+  "main": "stacks/index.js"
+}
